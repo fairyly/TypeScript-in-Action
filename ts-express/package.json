@@ -10,7 +10,7 @@
       "typescript": "3.3.3333"
    },
    "dependencies": {
-      "express": "^4.17.1",
+      "express": "^4.17.3",
       "mongodb": "^3.0.8",
       "reflect-metadata": "^0.1.10",
       "tslint": "^5.19.0",
